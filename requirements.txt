@@ -1,0 +1,9 @@
+
+
+Python:3.6-alpine
+
+Install flask
+
+~~~ this coloapp.py needs contribution
+
+## Other requirements will be updated soon. Thanks.
